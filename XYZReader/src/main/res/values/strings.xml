@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+
+    <!-- Author label [CHAR LIMIT = 10]-->
+    <string name="author_label">By <xliff.g example="cris_84" id="author_name">%s</xliff.g></string>
+
+    <!-- Subtitle text [CHAR LIMIT = 10]-->
+    <string name="subtitle_text">By <xliff.g example="cris_84" id="author_name">%s</xliff.g> -
+    <xliff.g example="lorem ipsum blah blah" id="body_text">%s</xliff.g></string>
+
+    <!-- Shared text [CHAR LIMIT = NONE]-->
+    <string name="share_text">Reading \"<xliff.g example="Outer Space" id="article_name">%s</xliff.g>
+        \" in <xliff.g example="XYZ Reader" id="app_name">%s</xliff.g></string>
+    <string name="default_share">an article</string>
+
+    <!-- CONTENT DESCRIPTION -->
+    <!-- Detail photos content description [CHAR LIMIT = NONE]-->
+    <string name="photos_ct">Detail photo</string>
+
+    <!-- Text placeholders-->
+    <string name="title_placeholder" translatable="false">This is the title</string>
+    <string name="text_placeholder" translatable="false">By cris - Lorem ipsum dolor sit amet, consectetur
+        adipiscing elit. Integer tempus, nibh nec auctor ultrices, ipsum leo porttitor eros, id
+        tristique arcu dui eu urna. Etiam facilisis molestie ultrices. Orci varius natoque penatibus
+        et magnis dis parturient montes, nascetur ridiculus mus. Integer consectetur nulla ac sapien
+        dignissim rutrum. Aliquam erat volutpat. Vestibulum lacinia nisl viverra varius malesuada.
+    </string>
+    <string name="text_placeholder_detail" translatable="false">Lorem ipsum dolor sit amet, consectetur
+        adipiscing elit. Integer tempus, nibh nec auctor ultrices, ipsum leo porttitor eros, id
+        tristique arcu dui eu urna. Etiam facilisis molestie ultrices. Orci varius natoque penatibus
+        et magnis dis parturient montes, nascetur ridiculus mus. Integer consectetur nulla ac sapien
+        dignissim rutrum. Aliquam erat volutpat. Vestibulum lacinia nisl viverra varius malesuada.
+    </string>
+    <string name="author_placeholder" translatable="false">By cris</string>
+    <string name="date_placeholder" translatable="false">23 April, 2017</string>
+</resources>
